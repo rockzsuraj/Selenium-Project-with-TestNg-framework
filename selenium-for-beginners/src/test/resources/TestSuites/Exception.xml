@@ -1,0 +1,11 @@
+<suite name="Exception Test Suite" verbose="1">
+	<test name="Exception Tests">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.herokuapp.theinternet.ExceptionsTests" />
+			<methods>
+			<exclude name = "timeOutTest"></exclude>
+			</methods>
+		</classes>
+	</test>
+</suite>
