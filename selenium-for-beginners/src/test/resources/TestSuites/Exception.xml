@@ -4,7 +4,7 @@
 		<classes>
 			<class name="com.herokuapp.theinternet.ExceptionsTests" />
 			<methods>
-			<exclude name = "timeOutTest"></exclude>
+			<include name="disabledElementTest"></include>
 			</methods>
 		</classes>
 	</test>
