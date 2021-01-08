@@ -6,9 +6,9 @@
     <classes>
       <class name="com.herokuapp.theinternet.ExceptionsTests">
         <methods>
-          <include name="noSuchElementTest"/>
           <include name="setUp"/>
           <include name="tearDown"/>
+          <include name="disabledElementTest"/>
         </methods>
       </class> <!-- com.herokuapp.theinternet.ExceptionsTests -->
     </classes>
